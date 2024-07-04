@@ -3,14 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "c421b1114c1bd18c9ee4daf34185ae79",
-"assets/AssetManifest.bin.json": "2963f84810277ad0da235110715472a0",
-"assets/AssetManifest.json": "a0692b067aaa0cf3ac4fefb8689cecf8",
+const RESOURCES = {"assets/AssetManifest.bin": "e2cb3f32f416b4c0527ecae27860630e",
+"assets/AssetManifest.bin.json": "ee2b33641c5a42ed0dc8bb42a5653ed2",
+"assets/AssetManifest.json": "b64f659e7eef875b130d71bbe938299f",
 "assets/assets/pngs/geniopay.png": "548be11c8ae7bf3eef16ed02805d92ec",
 "assets/assets/pngs/my%2520image.jpg": "fcd6858f7de94b1fa214a23650c37753",
 "assets/assets/pngs/spotypharm.png": "abe23abca756c6d316e99204bd3bb8b5",
 "assets/assets/pngs/ttmik.png": "d54d9e05feb0d830e47d92b1ba68ef3e",
-"assets/assets/pngs/xpos%2520-%2520POS.png": "65a70036a60af2d2b2382885756ba375",
 "assets/assets/pngs/xpos%2520-%2520self%2520order.png": "9211986daf4495539e22a9b86f0bf9c4",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "dac9fc2806508e42057834f239a975cd",
@@ -29,14 +28,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "c421b1114c1bd18c9ee4daf34185ae79
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
-"flutter_bootstrap.js": "ccfac14f463de67e5173bf2a306b497c",
+"flutter_bootstrap.js": "cf72befab9c6ffc7817b976872d23e64",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "510120590b61e2d30c387d4022ef629e",
 "/": "510120590b61e2d30c387d4022ef629e",
-"main.dart.js": "acf4baf529fdfe5ee95882eec05698f7",
+"main.dart.js": "ec61317c4c9fa981dd828b218bca5738",
 "manifest.json": "e74af8957b5899dc6da961caee768ec9",
 "version.json": "009c9e65172e010890f7f65fde438006"};
 // The application shell files that are downloaded before a service worker can
